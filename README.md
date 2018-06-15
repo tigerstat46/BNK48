@@ -2,7 +2,7 @@
 This is repository for BNK48
 
 ## About BNK48
-![alt text](https://github.com/tigerstat46/BNK48/blob/master/BNK48.jpg)
+![](https://github.com/tigerstat46/BNK48/blob/master/BNK48.jpg width=100)
 BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone knows it) <br>
 ### Single
 1. Aitakatta(อยากจะได้พบเธอ)
