@@ -20,4 +20,8 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 2. Google Trends
 
 ## Computer Language
-We use both R and Python to analyze the data in each case
+We use both R and Python to analyze the data in each case. Please install 
+1. Python(Anaconda)
+2. R 
+3. RStudio
+If we use some special library in project, we will notice you in top of the notebook :)
