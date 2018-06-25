@@ -8,7 +8,7 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 ### Captain 
 <p align="center">
   <img src="https://github.com/tigerstat46/BNK48/blob/master/PhotoBNK48/IMG_3694.jpg" alt="drawing" width="300px"/> <br>
-  <em>Cherprang Areekul</em>
+  <em>Cherprang Areekul(http://instagram.com/cherprang.bnk48official)</em>
 </p>
 
 ### Single
@@ -24,4 +24,5 @@ We use both R and Python to analyze the data in each case. Please install
 1. Python(Anaconda)
 2. R 
 3. RStudio
+
 If we use some special library in project, we will notice you in top of the notebook :)
