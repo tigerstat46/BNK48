@@ -7,7 +7,7 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 
 ### Captain 
 <p align="center">
-  <img src="https://github.com/tigerstat46/BNK48/blob/master/PhotoBNK48/IMG_3694.jpg" alt="drawing" width="300px"/> <br>
+  <img src="https://github.com/tigerstat46/BNK48/blob/master/PhotoBNK48/IMG_5187.jpg" alt="drawing" width="300px"/> <br>
   <em>Cherprang Areekul(http://instagram.com/cherprang.bnk48official)</em>
 </p>
 
