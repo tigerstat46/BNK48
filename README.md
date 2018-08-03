@@ -15,6 +15,10 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 1. Aitakatta(อยากจะได้พบเธอ)
 2. Koisuru Fortune Cookie(คุกกี้เสี่ยงทาย)
 3. Shonishi(วันแรก)
+
+## Datasets 
+1. BNK48 Generation 1 Image datasets 
+2. BNK48 Generation 2 Image datasets
 ## Content
 1. AKB48 Senbatsu Election Result(2015 - 2017) Thanks Stage48 :) 
 2. Google Trends
