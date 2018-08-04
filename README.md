@@ -19,6 +19,9 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 ## Datasets 
 1. BNK48 Generation 1 Image datasets 
 2. BNK48 Generation 2 Image datasets
+
+All of the datasets is under Creative Common License. If you are interest our datasets for using in commercial, Please contact 
+thatchaphonkaeo@gmail.com
 ## Content
 1. AKB48 Senbatsu Election Result(2015 - 2017) Thanks Stage48 :) 
 2. Google Trends
