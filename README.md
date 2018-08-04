@@ -11,6 +11,12 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
   <em>Cherprang Areekul(http://instagram.com/cherprang.bnk48official)</em>
 </p>
 
+### BIII Captain
+<p align="center">
+  <img src="https://github.com/tigerstat46/BNK48/blob/master/PhotoBNK48/IMG_6369.jpg" alt="drawing" width="300px"/> <br>
+  <em>Punsikorn Tiyakorn(http://instagram.com/pun.bnk48official)</em>
+</p>
+
 ### Single
 1. Aitakatta(อยากจะได้พบเธอ)
 2. Koisuru Fortune Cookie(คุกกี้เสี่ยงทาย)
