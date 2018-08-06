@@ -40,7 +40,7 @@ I will include all of datasets to https://github.com/bi89/bnk48_photo_datasets t
 1. Suchathit Boonnag
 2. Thatchaphon Kaeosuriya
 ### Acknowledgments
-1. Cherprang Areekul and BNK48 Members(Including grad members), 岡田奈々 and 山本彩
+1. Cherprang Areekul and BNK48 Members(Including grad members), 岡田奈々(AKB48/STU48) and 山本彩
 2. True Corporation, BNK48 Official and Artificial Intelligence Association Of Thailand(AIAT)
 3. Prof. Thanaruk Theeramunkong, Ph.D
 
