@@ -23,11 +23,27 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 3. Shonishi(วันแรก)
 
 ## Datasets 
-1. BNK48 Generation 1 Image datasets 
-2. BNK48 Generation 2 Image datasets
+1. [BNK48 Generation 1 Image datasets](https://github.com/tigerstat46/BNK48/tree/master/PhotoDataBNK48)
+2. BNK48 Generation 2 Image datasets(Not Started)
+
+### Description 
+Our data is in .jpg format(400x600 pixel). In each folder is contain member photo by folder name(If folder = Cherprang, you should see Cherprang Photo in folder however the file name is not by member name because it is easy to map from output photo to original photo(.CR2 file extension) <br>
+
+Our data is based on event like Public Conference, BNK48 2nd Generation Debut, Big Camera etc. or Digital Live Studio at EmQuartier(Aquarium aka ตู้ปลา) <br>
 
 All of the datasets is under Creative Common License. If you are interest our datasets for using in commercial, Please contact 
 thatchaphonkaeo@gmail.com
+### Next Plan 
+I will include all of datasets to https://github.com/bi89/bnk48_photo_datasets to easy access and you can enjoy with our datasets
+
+### Contributors
+1. Suchathit Boonnag
+2. Prof. Thanaruk Theeramunkong, Ph.D
+3. Thatchaphon Kaeosuriya
+### Acknowledgments
+1. Cherprang Areekul
+2. True Corporation, BNK48 Official and Artificial Intelligence Association Of Thailand(AIAT)
+
 ## Content
 1. AKB48 Senbatsu Election Result(2015 - 2017) Thanks Stage48 :) 
 2. Google Trends
