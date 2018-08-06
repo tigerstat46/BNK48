@@ -38,11 +38,11 @@ I will include all of datasets to https://github.com/bi89/bnk48_photo_datasets t
 
 ### Contributors
 1. Suchathit Boonnag
-2. Prof. Thanaruk Theeramunkong, Ph.D
-3. Thatchaphon Kaeosuriya
+2. Thatchaphon Kaeosuriya
 ### Acknowledgments
-1. Cherprang Areekul
+1. Cherprang Areekul and BNK48 Members(Including grad members), 岡田奈々 and 山本彩
 2. True Corporation, BNK48 Official and Artificial Intelligence Association Of Thailand(AIAT)
+3. Prof. Thanaruk Theeramunkong, Ph.D
 
 ## Content
 1. AKB48 Senbatsu Election Result(2015 - 2017) Thanks Stage48 :) 
