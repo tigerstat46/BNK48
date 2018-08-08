@@ -30,6 +30,11 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 ### Description 
 Our data is in .jpg format(400x600 pixel). In each folder is contain member photo by folder name(If folder = Cherprang, you should see Cherprang Photo in folder however the file name is not by member name because it is easy to map from output photo to original photo(.CR2 file extension) <br>
 
+<p align="center">
+  <img src="https://github.com/tigerstat46/BNK48/blob/master/PhotoBNK48/ComparePhoto.jpg" alt="drawing" width="300px"/> <br>
+  <em>Left : Datasets that we provide, Right : Exported data from Adobe Lightroom(~4 MB)</em>
+</p>
+
 Our data is based on event like Public Conference, BNK48 2nd Generation Debut, Big Camera etc. or Digital Live Studio at EmQuartier(Aquarium aka ตู้ปลา) <br>
 
 All of the datasets is under Creative Common License. If you are interest our datasets for using in commercial, Please contact 
