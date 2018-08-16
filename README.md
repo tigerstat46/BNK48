@@ -24,7 +24,7 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 4. Kimi wa Melody
 
 ## Datasets 
-1. [BNK48 Generation 1 Image datasets](https://github.com/tigerstat46/BNK48/tree/master/PhotoDataBNK48)
+1. [BNK48 Generation 1 Image datasets](https://github.com/tigerstat46/BNK48/tree/master/PhotoDataBNK48)(Not complete)
 2. BNK48 Generation 2 Image datasets(Not Started)
 
 ### Example Class
