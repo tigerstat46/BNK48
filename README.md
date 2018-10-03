@@ -18,10 +18,11 @@ BNK48 is sister idol group of AKB48. BNK stands for Bangkok(I think everyone kno
 </p>
 
 ### Single
-1. Aitakatta(อยากจะได้พบเธอ)
-2. Koisuru Fortune Cookie(คุกกี้เสี่ยงทาย)
-3. Shonishi(วันแรก)
-4. Kimi wa Melody
+1. Aitakatta (อยากจะได้พบเธอ)
+2. Koisuru Fortune Cookie (คุกกี้เสี่ยงทาย)
+3. Shonichi (วันแรก)
+4. Kimi wa Melody (เธอคือ...เมโลดี้)
+5. BNK Festival
 
 ## Datasets 
 1. [BNK48 Generation 1 Image datasets](https://github.com/tigerstat46/BNK48/tree/master/PhotoDataBNK48)(Not complete)
